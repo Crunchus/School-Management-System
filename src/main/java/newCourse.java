@@ -38,9 +38,9 @@ public class newCourse implements newCourseInterface {
         this.courseLecturerId = lecturerId;
     }
 
-    public void writeNewCourseIntoStorage(){
+    public void writeNewCourseIntoStorage() {
         try (BufferedWriter buwr = new BufferedWriter(new FileWriter("courses.txt", true))) {
-            buwr.write(courseCode+";"+ courseTitle+";"+ courseDescription+";"+ courseStartDate+";"+ courseCredits +";"+ courseLecturerId +"\n");
+            buwr.write(courseCode + ";" + courseTitle + ";" + courseDescription + ";" + courseStartDate + ";" + courseCredits + ";" + courseLecturerId + "\n");
         } catch (IOException e) {
             e.printStackTrace();
         }

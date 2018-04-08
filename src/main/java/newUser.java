@@ -33,7 +33,7 @@ public class newUser implements newUserInterface {
 
     public void writeNewUserIntoStorage() {
         try (BufferedWriter buwr = new BufferedWriter(new FileWriter("users.txt", true))) {
-            buwr.write(role +";"+ firstName +";"+ secondName  +";"+ userName  +";"+ password  +";"+ uniqueId +"\n");
+            buwr.write(role + ";" + firstName + ";" + secondName + ";" + userName + ";" + password + ";" + uniqueId + "\n");
         } catch (IOException e) {
             e.printStackTrace();
         }
