@@ -1,6 +1,5 @@
-STUDENT;Petras;Petraitis;Petriukas;kappa123;975c5e88-d713-49f3-ae8f-e05df6352d34
-ADMIN;Lukas;Lukashevich;Lukovskij;asd123;b2a4133f-7df2-4dee-9555-bca53bdae9ab
-LECTURER;Don;Maurizio;Mauritus;qwe456;02198603-d63e-42e4-a3bf-322d5009f99c
-ADMIN;Lukas;Plastis;LLLukas;asdasd159;7b374543-533a-40fa-8e2c-6e0a27e52133
-STUDENT;Petras;Jonaitis;ppp123;asd589;c55ea43d-336b-467e-b224-aa4157b61922
-LECTURER;Stasys;Stasiunas;Stasius;bobo555;57f56e91-5525-46e9-969d-be8caff6ee1a
+STUDENT;Krabas;Jonaitis;Krabis;456;607053a1-817b-4812-8897-4e61010e1250
+LECTURER;Petras;Petraitis;Petriukas;123;8db68f33-e8c7-4c85-a2be-84571681dd9c
+ADMIN;Jonas;Jonaitis;Joniukas;789;5afdd232-d216-413e-9d63-408448fa8eef
+STUDENT;Lukas;Pl;Lul;753;77549377-21ee-47b3-bb9a-32b07ca0147b
+LECTURER;Maurizio;Arrivabene;Maurizius;456;9a89387c-1330-44f5-a3d3-c9a9164f3366

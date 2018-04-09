@@ -1,4 +1,1 @@
-6aec98ad-819e-4afa-ba15-f8622e388c20;Thermodynamics;Gas and stuff;2018-05-01;5;02198603-d63e-42e4-a3bf-322d5009f99c
-c8289a20-5293-4cc8-a124-5a47d0068e93;Mechanics;Newton and stuff;2018-05-05;3;c55ea43d-336b-467e-b224-aa4157b61922
-9511180d-054a-435c-87df-ed311ef49a5a;Mathematics;Equations and stuff;2018-10-12;3;c55ea43d-336b-467e-b224-aa4157b61922
-0281dd60-7766-4650-9964-58bfb90a92af;Electronics;Capacitors and stuff;2018-11-11;5;7b374543-533a-40fa-8e2c-6e0a27e52133
+e99a937b-fa3b-4c1d-875a-5fb4a8d5935c;Mechanics;Newton and stuff;2018-10-10;5;9a89387c-1330-44f5-a3d3-c9a9164f3366
